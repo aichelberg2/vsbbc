@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "monokai-v2" extension will be documented in this file.
+## 0.0.
+Black Theme for VSCode
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### **Coming soon**
 
-## [Unreleased]
-
-- Initial release
+## 0.1.
+Keybindings:
+- First position in line
+- Last position in line
