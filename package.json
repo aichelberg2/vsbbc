@@ -10,6 +10,7 @@
     "email": "aichelberg2@gmail.com",
     "name": "Chris"
   },
+  "icon": "icon.png",
   "license": "https://unlicense.org",
   "version": "0.0.1",
   "engines": {
@@ -26,5 +27,11 @@
         "path": "./themes/vsbbc-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "3590f916-d666-43dd-851e-069d5177d776",
+    "publisherDisplayName": "aichelberg2",
+    "publisherId": "4ae3248e-ac96-4ca4-b81b-b10145c91f52",
+    "isPreReleaseVersion": false
   }
 }
