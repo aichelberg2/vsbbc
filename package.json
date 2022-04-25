@@ -1,0 +1,26 @@
+{
+  "name": "vsbbc",
+  "displayName": "VSBBC",
+  "description": "VSBBC",
+  "publisher": "aichelber2",
+  "author": {
+    "email": "aichelberg2@gmail.com",
+    "name": "Chris"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSBBC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsbbc-color-theme.json"
+      }
+    ]
+  }
+}
