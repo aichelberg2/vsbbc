@@ -26,6 +26,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/vsbbc-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "vsbbc",
+        "label": "VSBBC",
+        "path": "./themes/vsbbc-icon-theme.json"
+      }
     ]
   },
   "__metadata": {
