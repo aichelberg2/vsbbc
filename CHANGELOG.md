@@ -4,8 +4,8 @@
 Black Theme for VSCode
 
 ## 0.1.
-Added Font Theme
-Added Icon Theme
+- Added Font Theme 
+- Added Icon Theme
 
 ### **Coming soon**
 
