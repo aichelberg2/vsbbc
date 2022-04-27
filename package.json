@@ -1,7 +1,7 @@
 {
   "name": "vsbbc",
   "displayName": "VSBBC",
-  "description": "VSBBC",
+  "description": "Visual Studio Big Black Code",
   "publisher": "aichelberg2",
   "repository": {
     "url": "https://github.com/aichelberg2/vsbbc.git"
