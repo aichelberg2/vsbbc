@@ -236,7 +236,7 @@
     "statusBar.foreground": "#d1d1d1",
     "statusBar.border": "#363636",
     "statusBar.focusBorder": "#363636",
-    "statusBarItem.activeBackground": "#0f0f0f",
+    "statusBarItem.activeBackground": "#ffffff65",
     "statusBar.noFolderForeground": "#d1d1d1",
     "statusBar.noFolderBorder": "#363636",
     "statusBar.noFolderBackground": "#0f0f0f",
