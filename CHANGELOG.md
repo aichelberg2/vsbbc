@@ -11,5 +11,5 @@ Black Theme for VSCode
 
 ## 0.2.
 Keybindings:
-- First position in line (ALT + <-)
-- Last position in line (ALT + ->)
+- First position in line (CTRL + ALT + <-)
+- Last position in line (CTRL + ALT + ->)
