@@ -14,7 +14,7 @@
   "license": "https://unlicense.org",
   "version": "0.1.6",
   "engines": {
-    "vscode": "^1.66.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
