@@ -1,3 +1,4 @@
+// This file is part of VSBBC.
 {
   "name": "Custom Theme",
   "colors": {
@@ -340,6 +341,11 @@
     "listFilterWidget.outline": "#363636",
     "listFilterWidget.noMatchesOutline": "#d1d1d1",
     "listFilterWidget.background": "#1e1e1e",
+    "textLink.foreground": "#858585",
+    "textLink.activeForeground": "#d1d1d1",
+    // "textBlockQuote.border": "#ff0000",
+    // "textBlockQuote.background": "#ff0000",
+    // "textCodeBlock.background": "#ff0000",
     // "terminal.ansiBlack": "#ff0000",
     // "terminal.ansiBlue": "#ff0000",
     // "testing.message.error.lineBackground": "#ff0000",
@@ -350,15 +356,10 @@
     // "testing.peekHeaderBackground": "#ff0000",
     // "testing.runAction": "#ff0000",
     // "testing.iconUnset": "#ff0000",
-    // "textBlockQuote.border": "#ff0000",
-    // "textBlockQuote.background": "#ff0000",
-    // "textLink.activeForeground": "#ff0000",
-    // "textCodeBlock.background": "#ff0000",
     // "testing.iconSkipped": "#ff0000",
     // "testing.iconQueued": "#ff0000",
     // "testing.iconPassed": "#ff0000",
     // "testing.iconFailed": "#ff0000",
-    // "textLink.foreground": "#ff0000",
     // "testing.iconErrored": "#ff0000",
     // "terminalOverviewRuler.findMatchForeground": "#ff0000",
     // "terminalOverviewRuler.cursorForeground": "#ff0000",
