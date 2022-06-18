@@ -1,13 +1,13 @@
 # Change Log
 
-## 0.0.
+## 1.0.
 Black Theme for VSCode
 
-## 0.1.
+## 1.1.
 - Added Font Theme 
 - Added Icon Theme
 
-## 1.0
+## 2.0
 - Added personal settings.json to filetree 
 - Bugfixes
 - Completion of the extension
