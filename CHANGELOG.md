@@ -7,9 +7,12 @@ Black Theme for VSCode
 - Added Font Theme 
 - Added Icon Theme
 
-## 2.0
+## 2.0.
 - Added personal settings.json to filetree 
 - Bugfixes
 - Completion of the extension
+
+## 2.1.
+- Added git differences
 
 For further useful features or if you feel like "this thing is missing in here", just post them [in the repository discussions](https://github.com/aichelberg2/vsbbc/discussions/1) and I will look at it. :)

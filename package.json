@@ -12,7 +12,7 @@
   },
   "icon": "icon.png",
   "license": "https://www.gnu.org/licenses/gpl-3.0.en.html",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.60.0"
   },
